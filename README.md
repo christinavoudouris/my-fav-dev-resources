@@ -62,32 +62,6 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Sequelize](https://sequelize.org/master)
 
-## CSS
-
-[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction)
-
-[Cerberus - Responsive email patterns by Ted Goas](https://tedgoas.github.io/Cerberus)
-
-[Complete Guide to CSS Functions (CSS Tricks)](https://css-tricks.com/complete-guide-to-css-functions)
-
-[Complete Guide to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
-
-[CSS Tricks by Chris Coyier](https://css-tricks.com)
-
-[CSS Values](https://cssvalues.com)
-
-[Materialize](https://materializecss.com)
-
-[Modern CSS Solutions for Old CSS Problems by Stephanie Eckles](https://moderncss.dev)
-
-[Positioning Elements on the Web (Thoughtbot)](https://thoughtbot.com/blog/positioning)
-
-[Slate: Responsive Email Templates (Litmus)](https://litmus.com/resources/free-responsive-email-templates)
-
-[w3schools: forms](https://www.w3schools.com/howto/howto_css_login_form.asp)
-
-[w3schools: responsive image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
-
 ## Entrepreneurship / Remote Work
 
 [Five Things I've Learned Working Remotely by Jeremy Kratz](https://www.donedone.com/five-things-ive-learned-working-remotely)
@@ -99,6 +73,40 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 [20 Years as a Freelance Web Developer by Adam Coti](https://css-tricks.com/twenty-years-as-a-freelance-web-developer-wisdom-gained-and-lessons-learned)
 
 [Why Burnout is Dangerous And How You Can Recover From It (It’s Possible) by Theodora S. Abigail](https://toggl.com/blog/recover-from-burnout)
+
+## Javascript / jQuery / Web Components
+
+[Academind's JS videos & courses](https://academind.com/learn/javascript)
+
+[Coding the Smart Way](https://codingthesmartway.com)
+
+[Eloquent Javascript](https://eloquentjavascript.net)
+
+[Fancybox 3 (jQuery)](http://fancyapps.com/fancybox/3)
+
+[jQuery](https://jquery.com)
+
+[Lodash docs](https://lodash.com/docs)
+
+[Modern JS Explained for Dinosaurs :D](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+
+[Mozilla: A re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+[Mozilla: The JS docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[Mozilla: JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+[Mozilla: Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+
+[Polymer Project](https://www.polymer-project.org)
+
+[Vanilla Web Projects by Brad Traversy](https://vanillawebprojects.com)
+
+[webpack](https://webpack.js.org)
+
+[w3schools: Javascript](https://www.w3schools.com/js/default.asp)
+
+[You Might Not Need jQuery](http://youmightnotneedjquery.com)
 
 ## Quick Fixes / Other Useful Stuff
 
@@ -152,36 +160,32 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Upmostly](https://upmostly.com/tutorials)
 
-## Vanilla Javascript / Web Components
+## (S)CSS, CSS-in-JS
 
-[Academind's JS videos & courses](https://academind.com/learn/javascript)
+[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction)
 
-[Coding the Smart Way](https://codingthesmartway.com)
+[Cerberus - Responsive email patterns by Ted Goas](https://tedgoas.github.io/Cerberus)
 
-[Eloquent Javascript](https://eloquentjavascript.net)
+[Complete Guide to CSS Functions (CSS Tricks)](https://css-tricks.com/complete-guide-to-css-functions)
 
-[Fancybox 3 (jQuery)](http://fancyapps.com/fancybox/3)
+[Complete Guide to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 
-[jQuery](https://jquery.com)
+[CSS Tricks by Chris Coyier](https://css-tricks.com)
 
-[Lodash docs](https://lodash.com/docs)
+[CSS Values](https://cssvalues.com)
 
-[Modern JS Explained for Dinosaurs :D](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+[Materialize](https://materializecss.com)
 
-[Mozilla: A re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+[Modern CSS Solutions for Old CSS Problems by Stephanie Eckles](https://moderncss.dev)
 
-[Mozilla: The JS docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[Positioning Elements on the Web (Thoughtbot)](https://thoughtbot.com/blog/positioning)
 
-[Mozilla: JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+[Sass](https://sass-lang.com/guide)
 
-[Mozilla: Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+[Slate: Responsive Email Templates (Litmus)](https://litmus.com/resources/free-responsive-email-templates)
 
-[Polymer Project](https://www.polymer-project.org)
+[styled components](https://styled-components.com)
 
-[Vanilla Web Projects by Brad Traversy](https://vanillawebprojects.com)
+[w3schools: forms](https://www.w3schools.com/howto/howto_css_login_form.asp)
 
-[webpack](https://webpack.js.org)
-
-[w3schools: Javascript](https://www.w3schools.com/js/default.asp)
-
-[You Might Not Need jQuery](http://youmightnotneedjquery.com)
+[w3schools: responsive image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
