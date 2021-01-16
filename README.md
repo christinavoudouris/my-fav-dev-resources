@@ -28,8 +28,6 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Amplify docs](https://docs.amplify.aws)
 
-[A Beginner's Guide to npm](https://www.sitepoint.com/beginners-guide-node-package-manager)
-
 [Callback Hell](http://callbackhell.com)
 
 [EJS](https://ejs.co/#install)
@@ -84,7 +82,11 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Fancybox 3 (jQuery)](http://fancyapps.com/fancybox/3)
 
+[Javascript30 by Wes Bos](https://javascript30.com)
+
 [jQuery](https://jquery.com)
+
+[jQueryUI](https://jqueryui.com)
 
 [Lodash docs](https://lodash.com/docs)
 
@@ -122,6 +124,10 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [How to move a full Git repository with history](https://www.atlassian.com/git/tutorials/git-move-repository)
 
+[HTTPie](https://httpie.io)
+
+[Javascript Event Keycodes](http://keycode.info)
+
 [Litmus PutsMail: Test your HTML emails before sending them](https://putsmail.com)
 
 [markdown Tables](https://jmalarcon.github.io/markdowntables)
@@ -134,9 +140,9 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 ## React / React Native
 
-[Controlled vs. Uncontrolled Inputs in React by Gosha Arinich](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react)
+[Blog - Robin Wieruch](https://www.robinwieruch.de/blog)
 
-[How to CSS Style in React by Robin Wieruch](https://www.robinwieruch.de/react-css-styling)
+[Controlled vs. Uncontrolled Inputs in React by Gosha Arinich](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react)
 
 [JS Fundamentals Before Learning React by Robin Wieruch](https://www.robinwieruch.de/javascript-fundamentals-react-requirements)
 
@@ -148,13 +154,19 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Overreacted - Dan Abramov's blog](https://overreacted.io)
 
+[React Admin](https://marmelab.com/react-admin)
+
 [React Conditional Rendering by Robin Wieruch](https://www.robinwieruch.de/conditional-rendering-react)
+
+[React Contentful](https://ryanhefner.github.io/react-contentful)
 
 [React Docs - starting with Main Concepts](https://reactjs.org/docs/hello-world.html)
 
 [React Hook Form](https://react-hook-form.com)
 
 [React Navigation](https://reactnavigation.org)
+
+[React Query](https://react-query.tanstack.com)
 
 [React Transition Group](https://reactcommunity.org/react-transition-group)
 
