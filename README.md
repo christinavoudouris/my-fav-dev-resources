@@ -112,8 +112,6 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 ## Quick Fixes / Other Useful Stuff
 
-[Coolors](https://coolors.co)
-
 [CSV to JSON](https://csvjson.com)
 
 [Emmet](https://emmet.io)
@@ -181,6 +179,8 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 [Cerberus - Responsive email patterns by Ted Goas](https://tedgoas.github.io/Cerberus)
 
 [Complete Guide to CSS Functions (CSS Tricks)](https://css-tricks.com/complete-guide-to-css-functions)
+
+[Complete Guide to Grid (CSS Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid)
 
 [Complete Guide to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 
