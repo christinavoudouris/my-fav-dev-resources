@@ -82,6 +82,8 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Fancybox 3 (jQuery)](http://fancyapps.com/fancybox/3)
 
+[Javascript Cheat Sheet](https://hackr.io/blog/javascript-cheat-sheet)
+
 [Javascript30 by Wes Bos](https://javascript30.com)
 
 [jQuery](https://jquery.com)
@@ -129,6 +131,8 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 [Litmus PutsMail: Test your HTML emails before sending them](https://putsmail.com)
 
 [markdown Tables](https://jmalarcon.github.io/markdowntables)
+
+[Security Headers](https://securityheaders.com)
 
 [Ultimate Google Font Pairings](https://www.reliablepsd.com/ultimate-google-font-pairings)
 
