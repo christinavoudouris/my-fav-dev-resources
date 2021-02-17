@@ -78,6 +78,8 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Coding the Smart Way](https://codingthesmartway.com)
 
+[Complete Guide to Dark Mode on the Web (CSS Tricks)](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web)
+
 [Eloquent Javascript](https://eloquentjavascript.net)
 
 [Fancybox 3 (jQuery)](http://fancyapps.com/fancybox/3)
@@ -105,6 +107,8 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 [Polymer Project](https://www.polymer-project.org)
 
 [Vanilla Web Projects by Brad Traversy](https://vanillawebprojects.com)
+
+[Web Dev Simplified Blog](https://blog.webdevsimplified.com)
 
 [webpack](https://webpack.js.org)
 
@@ -184,9 +188,9 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Complete Guide to CSS Functions (CSS Tricks)](https://css-tricks.com/complete-guide-to-css-functions)
 
-[Complete Guide to Grid (CSS Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid)
-
 [Complete Guide to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+
+[Complete Guide to Grid (CSS Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid)
 
 [CSS Tricks by Chris Coyier](https://css-tricks.com)
 
