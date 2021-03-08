@@ -140,6 +140,8 @@ I keep ending up with way too many bookmarks. FYI, not looking for PR's or sugge
 
 [Ultimate Google Font Pairings](https://www.reliablepsd.com/ultimate-google-font-pairings)
 
+[WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker)
+
 [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
 
 [w3schools: HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
